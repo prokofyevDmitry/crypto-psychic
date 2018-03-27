@@ -1,7 +1,125 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cf32c86f-29ce-4a96-8d7c-8e02bcc4b0ad" name="Default" comment="" />
+    <list default="true" id="cf32c86f-29ce-4a96-8d7c-8e02bcc4b0ad" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/env/lib/python2.7/site-packages/pip-9.0.1.dist-info/DESCRIPTION.rst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/env/lib/python2.7/site-packages/pip-9.0.1.dist-info/INSTALLER" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/env/lib/python2.7/site-packages/pip-9.0.1.dist-info/METADATA" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/env/lib/python2.7/site-packages/pip-9.0.1.dist-info/RECORD" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/env/lib/python2.7/site-packages/pip-9.0.1.dist-info/WHEEL" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/env/lib/python2.7/site-packages/pip-9.0.1.dist-info/entry_points.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/env/lib/python2.7/site-packages/pip-9.0.1.dist-info/metadata.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/env/lib/python2.7/site-packages/pip-9.0.1.dist-info/top_level.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/env/lib/python2.7/site-packages/pip/_vendor/requests/packages/__init__.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/env/lib/python2.7/site-packages/pip/_vendor/requests/packages/chardet/__init__.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/env/lib/python2.7/site-packages/pip/_vendor/requests/packages/chardet/big5freq.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/env/lib/python2.7/site-packages/pip/_vendor/requests/packages/chardet/big5prober.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/env/lib/python2.7/site-packages/pip/_vendor/requests/packages/chardet/chardetect.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/env/lib/python2.7/site-packages/pip/_vendor/requests/packages/chardet/chardistribution.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/env/lib/python2.7/site-packages/pip/_vendor/requests/packages/chardet/charsetgroupprober.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/env/lib/python2.7/site-packages/pip/_vendor/requests/packages/chardet/charsetprober.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/env/lib/python2.7/site-packages/pip/_vendor/requests/packages/chardet/codingstatemachine.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/env/lib/python2.7/site-packages/pip/_vendor/requests/packages/chardet/compat.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/env/lib/python2.7/site-packages/pip/_vendor/requests/packages/chardet/constants.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/env/lib/python2.7/site-packages/pip/_vendor/requests/packages/chardet/cp949prober.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/env/lib/python2.7/site-packages/pip/_vendor/requests/packages/chardet/escprober.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/env/lib/python2.7/site-packages/pip/_vendor/requests/packages/chardet/escsm.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/env/lib/python2.7/site-packages/pip/_vendor/requests/packages/chardet/eucjpprober.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/env/lib/python2.7/site-packages/pip/_vendor/requests/packages/chardet/euckrfreq.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/env/lib/python2.7/site-packages/pip/_vendor/requests/packages/chardet/euckrprober.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/env/lib/python2.7/site-packages/pip/_vendor/requests/packages/chardet/euctwfreq.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/env/lib/python2.7/site-packages/pip/_vendor/requests/packages/chardet/euctwprober.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/env/lib/python2.7/site-packages/pip/_vendor/requests/packages/chardet/gb2312freq.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/env/lib/python2.7/site-packages/pip/_vendor/requests/packages/chardet/gb2312prober.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/env/lib/python2.7/site-packages/pip/_vendor/requests/packages/chardet/hebrewprober.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/env/lib/python2.7/site-packages/pip/_vendor/requests/packages/chardet/jisfreq.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/env/lib/python2.7/site-packages/pip/_vendor/requests/packages/chardet/jpcntx.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/env/lib/python2.7/site-packages/pip/_vendor/requests/packages/chardet/langbulgarianmodel.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/env/lib/python2.7/site-packages/pip/_vendor/requests/packages/chardet/langcyrillicmodel.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/env/lib/python2.7/site-packages/pip/_vendor/requests/packages/chardet/langgreekmodel.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/env/lib/python2.7/site-packages/pip/_vendor/requests/packages/chardet/langhebrewmodel.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/env/lib/python2.7/site-packages/pip/_vendor/requests/packages/chardet/langhungarianmodel.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/env/lib/python2.7/site-packages/pip/_vendor/requests/packages/chardet/langthaimodel.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/env/lib/python2.7/site-packages/pip/_vendor/requests/packages/chardet/latin1prober.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/env/lib/python2.7/site-packages/pip/_vendor/requests/packages/chardet/mbcharsetprober.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/env/lib/python2.7/site-packages/pip/_vendor/requests/packages/chardet/mbcsgroupprober.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/env/lib/python2.7/site-packages/pip/_vendor/requests/packages/chardet/mbcssm.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/env/lib/python2.7/site-packages/pip/_vendor/requests/packages/chardet/sbcharsetprober.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/env/lib/python2.7/site-packages/pip/_vendor/requests/packages/chardet/sbcsgroupprober.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/env/lib/python2.7/site-packages/pip/_vendor/requests/packages/chardet/sjisprober.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/env/lib/python2.7/site-packages/pip/_vendor/requests/packages/chardet/universaldetector.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/env/lib/python2.7/site-packages/pip/_vendor/requests/packages/chardet/utf8prober.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/env/lib/python2.7/site-packages/pip/_vendor/requests/packages/urllib3/__init__.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/env/lib/python2.7/site-packages/pip/_vendor/requests/packages/urllib3/_collections.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/env/lib/python2.7/site-packages/pip/_vendor/requests/packages/urllib3/connection.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/env/lib/python2.7/site-packages/pip/_vendor/requests/packages/urllib3/connectionpool.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/env/lib/python2.7/site-packages/pip/_vendor/requests/packages/urllib3/contrib/__init__.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/env/lib/python2.7/site-packages/pip/_vendor/requests/packages/urllib3/contrib/appengine.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/env/lib/python2.7/site-packages/pip/_vendor/requests/packages/urllib3/contrib/ntlmpool.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/env/lib/python2.7/site-packages/pip/_vendor/requests/packages/urllib3/contrib/pyopenssl.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/env/lib/python2.7/site-packages/pip/_vendor/requests/packages/urllib3/contrib/socks.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/env/lib/python2.7/site-packages/pip/_vendor/requests/packages/urllib3/exceptions.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/env/lib/python2.7/site-packages/pip/_vendor/requests/packages/urllib3/fields.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/env/lib/python2.7/site-packages/pip/_vendor/requests/packages/urllib3/filepost.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/env/lib/python2.7/site-packages/pip/_vendor/requests/packages/urllib3/packages/__init__.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/env/lib/python2.7/site-packages/pip/_vendor/requests/packages/urllib3/packages/ordered_dict.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/env/lib/python2.7/site-packages/pip/_vendor/requests/packages/urllib3/packages/six.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/env/lib/python2.7/site-packages/pip/_vendor/requests/packages/urllib3/packages/ssl_match_hostname/__init__.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/env/lib/python2.7/site-packages/pip/_vendor/requests/packages/urllib3/packages/ssl_match_hostname/_implementation.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/env/lib/python2.7/site-packages/pip/_vendor/requests/packages/urllib3/poolmanager.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/env/lib/python2.7/site-packages/pip/_vendor/requests/packages/urllib3/request.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/env/lib/python2.7/site-packages/pip/_vendor/requests/packages/urllib3/response.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/env/lib/python2.7/site-packages/pip/_vendor/requests/packages/urllib3/util/__init__.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/env/lib/python2.7/site-packages/pip/_vendor/requests/packages/urllib3/util/connection.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/env/lib/python2.7/site-packages/pip/_vendor/requests/packages/urllib3/util/request.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/env/lib/python2.7/site-packages/pip/_vendor/requests/packages/urllib3/util/response.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/env/lib/python2.7/site-packages/pip/_vendor/requests/packages/urllib3/util/retry.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/env/lib/python2.7/site-packages/pip/_vendor/requests/packages/urllib3/util/ssl_.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/env/lib/python2.7/site-packages/pip/_vendor/requests/packages/urllib3/util/timeout.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/env/lib/python2.7/site-packages/pip/_vendor/requests/packages/urllib3/util/url.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/env/lib/python2.7/site-packages/setuptools-38.5.2.dist-info/DESCRIPTION.rst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/env/lib/python2.7/site-packages/setuptools-38.5.2.dist-info/INSTALLER" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/env/lib/python2.7/site-packages/setuptools-38.5.2.dist-info/LICENSE.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/env/lib/python2.7/site-packages/setuptools-38.5.2.dist-info/METADATA" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/env/lib/python2.7/site-packages/setuptools-38.5.2.dist-info/RECORD" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/env/lib/python2.7/site-packages/setuptools-38.5.2.dist-info/WHEEL" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/env/lib/python2.7/site-packages/setuptools-38.5.2.dist-info/dependency_links.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/env/lib/python2.7/site-packages/setuptools-38.5.2.dist-info/entry_points.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/env/lib/python2.7/site-packages/setuptools-38.5.2.dist-info/metadata.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/env/lib/python2.7/site-packages/setuptools-38.5.2.dist-info/top_level.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/env/lib/python2.7/site-packages/setuptools-38.5.2.dist-info/zip-safe" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/datagrabber/datagrabber.py" afterPath="$PROJECT_DIR$/datagrabber/datagrabber.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/env/bin/easy_install" afterPath="$PROJECT_DIR$/env/bin/easy_install" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/env/bin/easy_install-2.7" afterPath="$PROJECT_DIR$/env/bin/easy_install-2.7" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/env/bin/pip" afterPath="$PROJECT_DIR$/env/bin/pip" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/env/bin/pip2" afterPath="$PROJECT_DIR$/env/bin/pip2" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/env/bin/pip2.7" afterPath="$PROJECT_DIR$/env/bin/pip2.7" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/env/lib/python2.7/site-packages/pip/__init__.py" afterPath="$PROJECT_DIR$/env/lib/python2.7/site-packages/pip/__init__.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/env/lib/python2.7/site-packages/pip/_vendor/cachecontrol/compat.py" afterPath="$PROJECT_DIR$/env/lib/python2.7/site-packages/pip/_vendor/cachecontrol/compat.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/env/lib/python2.7/site-packages/pip/_vendor/requests/__init__.py" afterPath="$PROJECT_DIR$/env/lib/python2.7/site-packages/pip/_vendor/requests/__init__.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/env/lib/python2.7/site-packages/pip/_vendor/requests/adapters.py" afterPath="$PROJECT_DIR$/env/lib/python2.7/site-packages/pip/_vendor/requests/adapters.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/env/lib/python2.7/site-packages/pip/_vendor/requests/api.py" afterPath="$PROJECT_DIR$/env/lib/python2.7/site-packages/pip/_vendor/requests/api.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/env/lib/python2.7/site-packages/pip/_vendor/requests/auth.py" afterPath="$PROJECT_DIR$/env/lib/python2.7/site-packages/pip/_vendor/requests/auth.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/env/lib/python2.7/site-packages/pip/_vendor/requests/cacert.pem" afterPath="$PROJECT_DIR$/env/lib/python2.7/site-packages/pip/_vendor/requests/cacert.pem" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/env/lib/python2.7/site-packages/pip/_vendor/requests/certs.py" afterPath="$PROJECT_DIR$/env/lib/python2.7/site-packages/pip/_vendor/requests/certs.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/env/lib/python2.7/site-packages/pip/_vendor/requests/compat.py" afterPath="$PROJECT_DIR$/env/lib/python2.7/site-packages/pip/_vendor/requests/compat.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/env/lib/python2.7/site-packages/pip/_vendor/requests/cookies.py" afterPath="$PROJECT_DIR$/env/lib/python2.7/site-packages/pip/_vendor/requests/cookies.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/env/lib/python2.7/site-packages/pip/_vendor/requests/exceptions.py" afterPath="$PROJECT_DIR$/env/lib/python2.7/site-packages/pip/_vendor/requests/exceptions.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/env/lib/python2.7/site-packages/pip/_vendor/requests/models.py" afterPath="$PROJECT_DIR$/env/lib/python2.7/site-packages/pip/_vendor/requests/models.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/env/lib/python2.7/site-packages/pip/_vendor/requests/sessions.py" afterPath="$PROJECT_DIR$/env/lib/python2.7/site-packages/pip/_vendor/requests/sessions.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/env/lib/python2.7/site-packages/pip/_vendor/requests/status_codes.py" afterPath="$PROJECT_DIR$/env/lib/python2.7/site-packages/pip/_vendor/requests/status_codes.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/env/lib/python2.7/site-packages/pip/_vendor/requests/utils.py" afterPath="$PROJECT_DIR$/env/lib/python2.7/site-packages/pip/_vendor/requests/utils.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/env/lib/python2.7/site-packages/pip/download.py" afterPath="$PROJECT_DIR$/env/lib/python2.7/site-packages/pip/download.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/env/lib/python2.7/site-packages/pkg_resources/__init__.py" afterPath="$PROJECT_DIR$/env/lib/python2.7/site-packages/pkg_resources/__init__.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/env/lib/python2.7/site-packages/pkg_resources/_vendor/packaging/__about__.py" afterPath="$PROJECT_DIR$/env/lib/python2.7/site-packages/pkg_resources/_vendor/packaging/__about__.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/env/lib/python2.7/site-packages/pkg_resources/_vendor/packaging/markers.py" afterPath="$PROJECT_DIR$/env/lib/python2.7/site-packages/pkg_resources/_vendor/packaging/markers.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/env/lib/python2.7/site-packages/pkg_resources/_vendor/pyparsing.py" afterPath="$PROJECT_DIR$/env/lib/python2.7/site-packages/pkg_resources/_vendor/pyparsing.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/env/lib/python2.7/site-packages/pkg_resources/extern/__init__.py" afterPath="$PROJECT_DIR$/env/lib/python2.7/site-packages/pkg_resources/extern/__init__.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/env/lib/python2.7/site-packages/setuptools/config.py" afterPath="$PROJECT_DIR$/env/lib/python2.7/site-packages/setuptools/config.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/env/pip-selfcheck.json" afterPath="$PROJECT_DIR$/env/pip-selfcheck.json" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -28,11 +146,31 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="datagrabber.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="crypto-psychic.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/crypto-psychic.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="221">
+              <caret line="17" column="0" lean-forward="false" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="13">
+              <caret line="1" column="4" lean-forward="true" selection-start-line="1" selection-start-column="4" selection-end-line="1" selection-end-column="4" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="datagrabber.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/datagrabber/datagrabber.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="247">
-              <caret line="19" column="0" lean-forward="false" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+            <state relative-caret-position="572">
+              <caret line="44" column="24" lean-forward="false" selection-start-line="44" selection-start-column="24" selection-end-line="44" selection-end-column="24" />
               <folding>
                 <element signature="e#96#111#0" expanded="true" />
               </folding>
@@ -49,6 +187,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="GradleLocalSettings">
     <option name="externalProjectsViewState">
       <projects_view />
@@ -58,7 +199,9 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/DataGrabber/datagrabber.py" />
+        <option value="$PROJECT_DIR$/crypto-psychic.py" />
         <option value="$PROJECT_DIR$/datagrabber/datagrabber.py" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
@@ -68,11 +211,11 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="48" />
-    <option name="y" value="1063" />
-    <option name="width" value="1873" />
-    <option name="height" value="1098" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="53" />
+    <option name="y" value="103" />
+    <option name="width" value="1871" />
+    <option name="height" value="1062" />
   </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
@@ -89,9 +232,9 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
       <pane id="AndroidView" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -115,6 +258,8 @@
     <property name="nodejs_interpreter_path" value="/usr/local/bin/node" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
+    <property name="SearchEverywhereHistoryKey" value="material&#9;ACTION&#9;MaterialTheme.ThemeChooser" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -227,14 +372,17 @@
       <workItem from="1520890598706" duration="475000" />
       <workItem from="1521300557874" duration="1840000" />
       <workItem from="1521392144686" duration="607000" />
+      <workItem from="1521889481946" duration="1794000" />
+      <workItem from="1522145684538" duration="72000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2922000" />
+    <option name="totallyTimeSpent" value="4788000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="48" y="1063" width="1873" height="1098" extended-state="6" />
+    <frame x="53" y="103" width="1871" height="1062" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -243,10 +391,10 @@
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Mongo Explorer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32923076" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3312369" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24959914" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -255,8 +403,8 @@
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -285,13 +433,62 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/crypto-psychic.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="104">
+          <caret line="8" column="28" lean-forward="true" selection-start-line="8" selection-start-column="28" selection-end-line="8" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/datagrabber/datagrabber.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="247">
-          <caret line="19" column="0" lean-forward="false" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+        <state relative-caret-position="403">
+          <caret line="31" column="24" lean-forward="true" selection-start-line="31" selection-start-column="24" selection-end-line="31" selection-end-column="24" />
           <folding>
             <element signature="e#96#111#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/datagrabber/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CryptoPredicter.iml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="104">
+          <caret line="8" column="9" lean-forward="false" selection-start-line="8" selection-start-column="9" selection-end-line="8" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/datagrabber/datagrabber.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="572">
+          <caret line="44" column="24" lean-forward="false" selection-start-line="44" selection-start-column="24" selection-end-line="44" selection-end-column="24" />
+          <folding>
+            <element signature="e#96#111#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/crypto-psychic.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="17" column="0" lean-forward="false" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="13">
+          <caret line="1" column="4" lean-forward="true" selection-start-line="1" selection-start-column="4" selection-end-line="1" selection-end-column="4" />
+          <folding />
         </state>
       </provider>
     </entry>
