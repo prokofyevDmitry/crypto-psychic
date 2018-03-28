@@ -23,8 +23,7 @@ class DataGrabber:
         """
         Acquisition of all stock data for cypto_name.
         """
-        r = requests.get(self.api_base_path+self.period+"?fsym={}&tsym=USD&limit={}".format(crypto_name.upper(),self.max_periods))
-
+        r = requests.get(self.api_base_path+self.period+"?fsym={}&tsym=USD&limit={}&e=bitfinex".format(crypto_name.upper(),self.max_periods))
 
         response = r.json()
         if r.status_code==200 and response['Response']!="Error":

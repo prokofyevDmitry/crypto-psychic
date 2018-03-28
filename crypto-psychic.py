@@ -17,17 +17,20 @@ with open('crypto_list.csv', mode='r') as crypto_list_csv:
 
 
 
-dtgrab = DataGrabber("day")
+dtgrab = DataGrabber("hour")
 dtanalyser = DataAnalyzer()
 
 
 result = 0
 
+crypto_list = ['NEO']
+
 for crypto in crypto_list:
 
 	df_data = dtgrab.grab(crypto)
 
-	result+=dtanalyser.analyse_trades(crypto,dtanalyser.emacross(crypto,df_data))
+	#result+=dtanalyser.analyse_advice(crypto,dtanalyser.emacross(crypto,df_data))
+	dtanalyser.full_analyse(crypto,df_data)
 
 print "Total result: {}".format(result)	
 
