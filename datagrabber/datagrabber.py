@@ -3,7 +3,7 @@ Datagrabber class responsible for the fetching of historical cryptocurrency stoc
 """
 import requests
 import pandas as pd
-
+import datetime
 
 
 class DataGrabber:
@@ -38,6 +38,8 @@ class DataGrabber:
 
 
             print "Grabbed for {}".format(crypto_name)
+            print "from\t{}".format(datetime.datetime.fromtimestamp(datas.iloc[0]['time']))
+            print "to\t{}".format(datetime.datetime.fromtimestamp(datas.iloc[-1]['time']))
             return datas
         else:
             print "error grabbing {}".format(crypto_name)

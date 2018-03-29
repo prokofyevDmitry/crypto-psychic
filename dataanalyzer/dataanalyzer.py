@@ -72,10 +72,35 @@ class DataAnalyzer:
 
 		return 100 * ( (4*average7) + (2* average14) + average28 )/7
 
+	def stoch_rsi(self,dataset):
+	
+		# results = []
+
+		# for index, row in dataset.iterrows():
+
+		# 	if index>=26:
+				
+		# 		rsi = RSI(dataset[:index],timeperiod=14)
+		# 		print rsi
+		# 		up = rsi-rsi.min()
+		# 		down = rsi.max() - rsi.min()
+		# 		res = ( up.iloc[-1] )/( down ) * 100 
+
+		# 		results.append( res )
+
+		# return pd.Series(results)
+		rsi = RSI(dataset,timeperiod=14)
+		return STOCHF( rsi , 14, 3, 3 )
+
+		# todo : complete this function !
+
+
+
 
 	def full_analyse(self,index,dataset):
 		sma = SMA(dataset, timeperiod=EMACROSS_FAST)
 		
+
 		rsi = RSI(dataset, timeperiod=RSI_TP)
 
 		cci = CCI(dataset, timeperiod=CCI_TP)
@@ -84,17 +109,19 @@ class DataAnalyzer:
 
 		mom = MOM(dataset,timeperiod=MOM_TP)
 
-		macd, macdsignal, macdhist = MACD(dataset, fastperiod=12, slowperiod=27, signalperiod=9)
+		fastkf = STOCHF(dataset, fastk_period=14, fastd_period=3, fastd_matype=0)
 
-		fastk, fastd = STOCHRSI(dataset, timeperiod=14, fastk_period=3, fastd_period=3, fastd_matype=0)
+		macd = MACD(dataset, fastperiod=12, slowperiod=27, signalperiod=9)
+
+		fastk = STOCHRSI(dataset, timeperiod=14, fastk_period=3, fastd_period=3, fastd_matype=0)
+
+		strsi = self.stoch_rsi(dataset)
 
 		bul_bea_pwr = self.bull_bear_power(dataset)
 
 		uo = self.ultimate_oscillator(dataset)
 
-		print macd, macdsignal, macdhist
-
-		print "rsi : {}\n cci: {}\n ao:{}\n mom:{}\n macd:{}\n stochrsi fast:{}\n bull bear:{}\n uo:{}\n".format(rsi.iloc[-1],cci.iloc[-1],ao.iloc[-1],mom.iloc[-1],macdsignal,fastk,bul_bea_pwr.iloc[-1],uo)
+		print "rsi : {}\n sf : {}\n cci: {}\n ao:{}\n mom:{}\n macd:{}\n stochrsi fast:{}\n bull bear:{}\n uo:{}\n".format(rsi.iloc[-1],fastkf.iloc[-1]['fastk'],cci.iloc[-1],ao.iloc[-1],mom.iloc[-1],macd.iloc[-1]['macd'],strsi.iloc[-1],bul_bea_pwr.iloc[-1],uo)
 
 
 
