@@ -4,7 +4,7 @@ import csv
 
 
 
-# uses close prices (default)
+
  
 
 
@@ -31,6 +31,7 @@ for crypto in crypto_list:
 
 	#result+=dtanalyser.analyse_advice(crypto,dtanalyser.emacross(crypto,df_data))
 	dtanalyser.full_analyse(crypto,df_data)
+	dtanalyser.stockstat(df_data)
 
 print "Total result: {}".format(result)	
 
